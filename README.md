@@ -1,7 +1,7 @@
 # Syed Mehdi
 Hi there, I'm a backend developer with experience in building APIs and backend systems.
 I started with tech by making games in Pygame, and over the years, I have found backend to be my thing.
-Currently, I am learning Go to build more scalable backend systems.
+Currently, I am learning Go.
 
 ## My Tech Stack
 <img align="left" style="padding-right:10px" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
