@@ -1,8 +1,7 @@
 # Hi, I'm Syed
 
 I'm a backend developer working with FastAPI and Django.
-In my free time, I'm learning Go and I (try...?) making meaningful contributions to open-source projects.
-
+Nowadays, I'm learning Go and customising (trying...?) my Fedora setup.
 
 
 ###  My Tech Stack
