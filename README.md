@@ -6,7 +6,7 @@ Nowadays, I'm learning Go and customising (trying...?) my Fedora setup.
 
 ###  My Tech Stack
 - Python with FastAPI and Django
+- Go with Chi and Gin
 - JavaScript with ReactJS and Tailwind
-- Go, Java, C
 - PostgreSQL, MySQL, Redis
-- Docker
+- Docker and Docker Compose
